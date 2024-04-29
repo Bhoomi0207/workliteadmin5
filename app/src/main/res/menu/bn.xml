@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--<item
+        android:id="@+id/nav_deatils"
+        android:title="Details"
+        android:icon="@drawable/ic_baseline_description_24" />-->
+
+    <item
+        android:id="@+id/nav_home"
+        android:title="Employee"
+        android:icon="@drawable/person"
+        android:iconTint="@color/black"/>
+
+    <item
+        android:id="@+id/nav_request"
+        android:title="Hiring"
+
+        android:icon="@drawable/hiring" />
+
+    <item
+        android:id="@+id/nav_deatils"
+        android:title="Complains"
+        android:icon="@drawable/ic_baseline_description_24" />
+    <item
+        android:id="@+id/nav_pay"
+        android:title="Pay"
+        android:icon="@drawable/pay" />
+
+
+
+
+
+</menu>
